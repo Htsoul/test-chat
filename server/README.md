@@ -15,6 +15,6 @@ npm版本 V8.5.0
 ```shell
 1. $ npm install
 
-2. $ node test 
+2. $ npm test 
 ```
 
